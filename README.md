@@ -1,2 +1,3 @@
 # Diwakar-Kumar
-This my first git repository
+This my first git repository.
+Author- Diwakar Singh
